@@ -60,3 +60,13 @@ export const getDataFromDB = async () => {
 
 // Initializing the database when the module is imported
 initializeDB();
+
+// Function to initialize the IndexedDB database
+export const getDb = async () => {
+    // Implementation
+};
+
+// Method to add content to the IndexedDB database
+export const putDb = async (content) => {
+    // Implementation
+};
