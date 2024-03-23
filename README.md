@@ -11,7 +11,7 @@ The app will be a single-page application that meets the PWA criteria. Additiona
 - This will run on http://localhost:3000/
 
 ## Usage:
-Screenshots:
+Screenshot: ![Screenshot](assets/img/Screenshot.png)
 
 ## Licensing:
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
